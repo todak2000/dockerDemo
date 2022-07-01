@@ -1,0 +1,11 @@
+# Start by
+
+1. initiate the Virtual environment:  
+    source  ~/.dockerDemo/bin/activate
+
+2. TO stop the Virtual environment:
+    deactivate
+    
+3. TO know the path of your source code:
+    pwd
+    
