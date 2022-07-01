@@ -6,7 +6,7 @@ working_directory: ~/dockerDemo
 jobs:
   say-hello:
     docker:
-      - image: cimg/base:stable
+      - image: cimg/python:3.10.5
     steps:
       - checkout
       - restore_cache:
